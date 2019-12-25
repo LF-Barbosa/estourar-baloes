@@ -1,4 +1,4 @@
-# estourar-baloes
+# Estourar Balões
 Jogo web
 
 Desenvolvido com HTML CSS e JavaScript.
